@@ -18,7 +18,7 @@ A web-based chatbot application powered by Google's Gemini AI. This application 
 - Responsive design using Bootstrap
 ## Demo
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  <br>
-![video link](https://www.youtube.com/watch?v=v8dCfWvjtaQ)
+https://www.youtube.com/watch?v=v8dCfWvjtaQ
 ## Prerequisites
 - Python 3.7 or higher
 - Google Gemini API key
