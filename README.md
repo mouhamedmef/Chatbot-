@@ -1,5 +1,13 @@
 # AI Chatbot
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![API](https://img.shields.io/badge/API-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+## About
 A web-based chatbot application powered by Google's Gemini AI. This application uses Flask for the backend and provides a responsive chat interface for users to interact with the Gemini AI model.
 
 ![Chatbot Interface](exemplz.png)
@@ -8,6 +16,9 @@ A web-based chatbot application powered by Google's Gemini AI. This application 
 - Real-time chat interface
 - Integration with Google's Gemini AI model
 - Responsive design using Bootstrap
+## Demo
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  <br>
+![video link](https://www.youtube.com/watch?v=v8dCfWvjtaQ)
 ## Prerequisites
 - Python 3.7 or higher
 - Google Gemini API key
