@@ -2,7 +2,7 @@
 
 A web-based chatbot application powered by Google's Gemini AI. This application uses Flask for the backend and provides a responsive chat interface for users to interact with the Gemini AI model.
 
-![Chatbot Interface](static/images/screenshot.png)
+![Chatbot Interface](exemplz.png)
 
 ## Features
 - Real-time chat interface
