@@ -3,7 +3,7 @@ from flask import Flask, render_template, request
 
 # Set your Gemini API Key
 # You'll need to add your API key here
-genai.configure(api_key="AIzaSyDZgG-f40-CBMFa9Akeyp2F-eZiomSQSyY")
+genai.configure(api_key="you api key")
 
 app = Flask(__name__)
 
