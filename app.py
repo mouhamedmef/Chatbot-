@@ -15,7 +15,7 @@ def index():
 def chat():
     msg = request.form["msg"]
     user_input = msg
-    return get_chat_response(user_input)  # Changed from get_Chat_response to get_chat_response
+    return get_chat_response(user_input)  
 
 def get_chat_response(text):
     model = genai.GenerativeModel("gemini-1.5-pro")
